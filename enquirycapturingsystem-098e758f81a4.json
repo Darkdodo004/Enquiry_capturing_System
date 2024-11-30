@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "enquirycapturingsystem",
+  "private_key_id": "098e758f81a4d23efbd5f25ba14778403b6d0249",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfm5AGCF97yK7C\nE1JDpVjI2DFI3X1g5pyUvXcp6ybzjaDGJRoAYIo6JblwqRtfF+HzPZ+BQFOGYv04\nIT1wPzyONBeBYkmOXkXNFpk2kXzstvfZurI5cRTr6lrLUHoRBw+mKQcsPjVrASXl\nAKhHl3kCKGUpHqAt6od7JtS+BPFdmoHvtIbTUBY/f34NdGt1K3GFv+B2/pikqKIT\nwpdic/r9aPyZD7U6VpTLNgmzP2R30SpeTGBSEjPUO3kCXeRqy3nhnT3+rx/4X4xE\nblZAf/gtUcUnKoSY/uPNppOkprK5AXXjaXhBU58xp/PA3aFsWd2UW/5URC3yYll/\nwqdOLIqJAgMBAAECggEACyqN++4QCA/1Mfy6D6N8v6hoYkmkoOfhYoKS2Krr8bQh\n4FruI8KdSQ4kmB4snQ2FsEfKZfeDIG7Cem/Q5Y53BRfd4R5oOP6dcYi4NVoeXE08\nr83g9CXWKd8edQTvVUuiK6TJLK45fH/7D7dpDoEpZR5AXY0X9b5nthT0Y0rjPAIb\n89bmwFqcfIAhazvkKHyY4pI8YBbCVv99l3El4Dq8b/Sp6AfOEIGSNN+wcI5zw1Q9\nDSRkO/AVhawFpSeB2itFn49HBXzjeatBY8mw/GNduAJ3EarNXhVU7NvTVeKFTwiC\nMZA8ZLb30U5Nr9uK0BEnCOlJRbaD6RZLq5Lq9bAjpQKBgQDPobLIBHevG8EslUga\nG/50chba3DcgGdhIzSB56mthXCZ0UyMTKVusR13RR5XLGyLXdPt96Kwu6CGITG0/\niwsg4kcZ95bad3Bpg6yKuIjsEt1IOQ7cUO5yAM00ytoAdIVcuSV2ClFfa4fzsXrt\nFSGxnN+q9ePiy8kY2o3Sh7JnswKBgQDEyelBx+bRKaCeccprH2alBEyQOQ/O4CNX\nYZ2hcKEaHykUYNpCIC/3gnRfC0xzILcDRUAOq30NlxdarJtwzHtK0y1ZaxlVm84w\ntYeg3otWSTveIVCyrE2xuEKbcnVcXQ/g/ejHJR8kO3tYb8xqxeKELmibHZ7LCIxe\nTPSXjBGm0wKBgGlU75yW35ye6OXUKYrNTs4GHuASvYh0dAuivGn86VKv6/YxQuby\noUYJwmdr+GrcLlW9S+Q5CDiXnINHulh1EkUxZb6foxDbbNSqbvrE2PliLI36HDba\ne8yr6W5xxhxbAFjkuENkwpk0tPiEvgbOJJS1L6bMLTqeBTutjCsUmgYPAoGAWQJm\n4h0UFul4QBKCFx/14o/mPZnBv7X75ks97EawZ8tOXmxMbHp4l8BG+LJ4mt5iSTVq\nevgwMRR1OMs357Zl0ftg2MArjmBRzBBfz3C5n4aycI+rG5X58nfAkOUdlnB1fTP7\ntQ/iXRYWfXLcCDOHeHgxUm/8YiN0sjamr2FonocCgYEAygeLsUfGjWvU1y5rg+XP\nzCM4kR9NQTSIKfk0scEsfxj5lP0tX4xumMwkE6gdnVnH+1zQ16jpGFmq3Rz3ARyD\n2F7HBndDtsf4YaOCTD9cDBGRMqWygNf6NzjxFew8HWa9Y5YE1Pbo01aWNWc/s4qG\n1oVlz/3Mb4+jXuObRmU+OYc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "enquiry-capturing-system@enquirycapturingsystem.iam.gserviceaccount.com",
+  "client_id": "107977733425972264920",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/enquiry-capturing-system%40enquirycapturingsystem.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
